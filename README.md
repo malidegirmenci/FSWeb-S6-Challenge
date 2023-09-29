@@ -10,10 +10,10 @@ Bu tek başına yapılması gereken bir projedir. Tüm çalışmayı tek başın
 
 ### Proje Kurulumu
 
-- [ ] Forklayarak bir kopyasını oluşturun
-- [ ] Forkunuzu klonlayın
-- [ ] main branch üzerinde çalışın
-- [ ] Push commits: `git push origin main`
+- [X] Forklayarak bir kopyasını oluşturun
+- [X] Forkunuzu klonlayın
+- [X] main branch üzerinde çalışın
+- [X] Push commits: `git push origin main`
 
 ## Proje Talimatları
 
@@ -31,9 +31,9 @@ Minimum Uygulanabilir Ürünü oluşturmak için (MVP) gereklilikler aşağıda 
 
 Bitmiş projeniz aşağıdaki tüm özelliklere sahip olmalıdır:
 
-- [ ] Karakterleri çağırmak için şu endpointi(uç noktası) kullanın `[GET] https://swapi.dev/api/people/` ([msw](https://github.com/mswjs/msw)).
-- [ ] Çekilen karakter listesini bir state e yazın.
-- [ ] Karakterlerinizi DOM'a aktarın:
+- [X] Karakterleri çağırmak için şu endpointi(uç noktası) kullanın `[GET] https://swapi.dev/api/people/` ([msw](https://github.com/mswjs/msw)).
+- [X] Çekilen karakter listesini bir state e yazın.
+- [X] Karakterlerinizi DOM'a aktarın:
 
   1. Her bir karakteri render etmek için 'Karakter' isminde bir React bileşeni oluşturun.
   1. map metoduyla statedeki verileri listeleyin, ve tüm karakterleri Karakter bileşenini kullanarak sayfaya yazdırın.
